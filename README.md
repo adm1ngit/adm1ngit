@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adm1ngit
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python (Fast Api)
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
