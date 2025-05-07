@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="@x_217_x" target="_blank">
+  <a href="https://t.me/x_217_x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="4dm1n217@gmail.com" target="_blank">
